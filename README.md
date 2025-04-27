@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/kevin-dunn-/">Kevin Dunn</a>'s Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I am a Cyber Security professional with extensive experience in both defensive and offensive security. I have consulted for organizations such as NASA, where I implemented robust security measures, performed detailed vulnerability assessments, and conducted penetration tests and red team exercises using industry-standard tools like Nmap, Burp Suite, Nessus, Metasploit, and Wireshark. My efforts have consistently adhered to frameworks such as NIST 800-53 and ISO 27001, ensuring a rigorous approach to security in high-stakes environments. As IT Manager at Harmony Public Schools, I further developed my expertise in enterprise network management by configuring Cisco infrastructure, administering VLANs, and resolving complex network issues. I continuously enhance my skills in Linux (Kali), malware analysis, threat intelligence, and incident response, while also managing cloud security with Microsoft Azure Active Directory. These experiences uniquely position me to excel in SOC operations, lead incident response efforts, and drive proactive red teaming exercises that uncover vulnerabilities before they can be exploited.
 
 ## ⚠️ Vulnerability Management Projects
 
