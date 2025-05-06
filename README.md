@@ -9,7 +9,7 @@ I am a Cyber Security professional with extensive experience in both defensive a
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kdcyber1994/threat-hunting-scenario-tor)**
 
 <hr/>
 
