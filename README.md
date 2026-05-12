@@ -18,6 +18,18 @@ Technical Stack
 
 I thrive in environments that require both the technical edge to identify vulnerabilities and the professional discipline to document and remediate them within complex compliance frameworks.
 
+## ⚠️ 1000 Hours of Cyber
+- **[1000 Hours of Cyber]**
+- **[900 Hours of Cyber]**
+- **[800 Hours of Cyber]**
+- **[700 Hours of Cyber]**
+- **[600 Hours of Cyber]**
+- **[500 Hours of Cyber]**
+- **[400 Hours of Cyber]**
+- **[300 Hours of Cyber]**
+- **[200 Hours of Cyber]**
+- **[100 Hours of Cyber]**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/kdcyber1994/vulnerability-management-program)**
