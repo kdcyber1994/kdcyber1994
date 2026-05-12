@@ -1,6 +1,22 @@
 # <a href="https://www.linkedin.com/in/kevin-dunn-/">Kevin Dunn</a>'s Cybersecurity Project Portfolio 🔐
 
-I am a Cyber Security professional with extensive experience in both defensive and offensive security. I have consulted for organizations such as NASA, where I implemented robust security measures, performed detailed vulnerability assessments, and conducted penetration tests and red team exercises using industry-standard tools like Nmap, Burp Suite, Nessus, Metasploit, and Wireshark. My efforts have consistently adhered to frameworks such as NIST 800-53 and ISO 27001, ensuring a rigorous approach to security in high-stakes environments. As IT Manager at Harmony Public Schools, I further developed my expertise in enterprise network management by configuring Cisco infrastructure, administering VLANs, and resolving complex network issues. I continuously enhance my skills in Linux (Kali), malware analysis, threat intelligence, and incident response, while also managing cloud security with Microsoft Azure Active Directory. These experiences uniquely position me to excel in SOC operations, lead incident response efforts, and drive proactive red teaming exercises that uncover vulnerabilities before they can be exploited.
+I am a Senior Cybersecurity Engineer with nearly a decade of experience building, managing, and securing enterprise-scale infrastructure. My career has evolved from NOC operations and IT Management to securing mission-critical ground and flight software for the NASA Gateway contract.
+
+Adversarial Research & Offensive Training
+While my professional roles have been centered on architecture and defense, I have dedicated the last year to mastering the offensive domain. I have logged 900+ hours of intensive hands-on lab time and am currently 97% of the way through the HTB Certified Penetration Testing Specialist (CPTS) path. To date, I have rooted 55 targets on Hack The Box, building a deep technical foundation in Active Directory exploitation, multi-stage pivoting, and Windows/Linux internals.
+
+NASA Gateway & Compliance Architecture
+On the NASA Gateway contract, I specialize in the intersection of architectural planning and federal compliance. My focus includes:
+• System Security Plans (SSP): Mapping out technical implementation to NIST 800-53 rev5 and 7150.2C requirements.
+• Security Architecture: Designing specifications for cybersecurity toolkits and integrating Splunk and Nessus environments for critical infrastructure.
+• Code Review: Performing manual source code reviews as part of passive penetration testing engagements for ground flight software.
+
+Technical Stack
+• Offensive: Nmap, Burp Suite, Metasploit, Impacket, Mimikatz
+• Defensive: Splunk (Core Certified), Qualys, Nessus, Wireshark, Microsoft Defender
+• Infrastructure: Cisco Enterprise Networking (VLAN/Routing), Azure AD/Entra ID
+
+I thrive in environments that require both the technical edge to identify vulnerabilities and the professional discipline to document and remediate them within complex compliance frameworks.
 
 ## ⚠️ Vulnerability Management Projects
 
