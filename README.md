@@ -18,8 +18,24 @@ Technical Stack
 
 I thrive in environments that require both the technical edge to identify vulnerabilities and the professional discipline to document and remediate them within complex compliance frameworks.
 
-## 🎯 1000 Hours of Cyber
-- **[Follow My Journey](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md)**
+## 🎯 1,000 Hours of Cyber
+I am documenting a structured 1,000-hour journey to technical mastery in Cyber Security. Each phase represents a deep dive into specific adversarial techniques and methodologies.
+
+**[Explore the Full Project Repository](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md)**
+
+| Milestone | Link |
+| :--- | :--- |
+| **Phase 1 (0-100 Hours)** | [Foundations & Defensive Fundamentals](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#100-hours-of-cyber) |
+| **Phase 2 (100-200 Hours)** | [Transition to Offensive & SOC Ops](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#200-hours-of-cyber) |
+| **Phase 3 (200-300 Hours)** | [Building the Offensive Mindset](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#300-hours-of-cyber) |
+| **Phase 4 (300-400 Hours)** | [Structured Progress & HTB](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
+| **Phase 5 (400-500 Hours)** | [Repeatable Processes](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#500-hours-of-cyber) |
+| **Phase 6 (500-600 Hours)** | [Pivoting & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#600-hours-of-cyber) |
+| **Phase 7 (600-700 Hours)** | [Technical Depth & Methodology](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
+| **Phase 8 (700-800 Hours)** | [Accountability & Final Stretch](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#800-hours-of-cyber) |
+| **Phase 9 (800-900 Hours)** | [The "Second Brain" Methodology](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#900-hours-of-cyber) |
+
+*Current Progress: 97% Complete* ![Progress](https://geps.dev/progress/97)
 
 ## ⚠️ Vulnerability Management Projects
 
