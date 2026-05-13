@@ -35,7 +35,9 @@ I am documenting a structured 1,000-hour journey to technical mastery in Cyber S
 | **Phase 8 (700-800 Hours)** | [Accountability & Final Stretch](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#800-hours-of-cyber) |
 | **Phase 9 (800-900 Hours)** | [The "Second Brain" Methodology](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#900-hours-of-cyber) |
 
-*Current Progress: 97% Complete* ![Progress](https://geps.dev/progress/97)
+*Current Progress: 90% Complete* ![Progress](https://geps.dev/progress/90)
+
+*Current CPTS Progress: 97% Complete* ![Progress](https://geps.dev/progress/97)
 
 ## ⚠️ Vulnerability Management Projects
 
