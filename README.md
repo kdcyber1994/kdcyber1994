@@ -31,14 +31,16 @@ I am currently engineering and documenting hybrid identity frameworks, security 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/kdcyber1994/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/kdcyber1994/programmatic-vulnerability-remediations/tree/main)**
+* **[Vulnerability Management Program Implementation](https://github.com/kdcyber1994/vulnerability-management-program):** Full program lifecycle design, asset discovery configuration, and risk scoring frameworks.
+* **[Programmatic Vulnerability Remediations](https://github.com/kdcyber1994/programmatic-vulnerability-remediations/tree/main):** Automation scripts written in PowerShell and BASH to systematically patch and enforce system baselines at scale.
+
+---
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kdcyber1994/threat-hunting-scenario-tor)**
+* **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kdcyber1994/threat-hunting-scenario-tor):** Detection and log analysis pipeline designed to identify unauthorized anonymized traffic within corporate network perimeters.
 
-<hr/>
+---
 
 ## 🤳 Connect With Me
 
