@@ -1,22 +1,11 @@
 # <a href="https://www.linkedin.com/in/kevin-dunn-/">Kevin Dunn</a>'s Cybersecurity Project Portfolio 🔐
 
-I am a Senior Cybersecurity Engineer with nearly a decade of experience building, managing, and securing enterprise-scale infrastructure. My career has evolved from NOC operations and IT Management to securing mission-critical ground and flight software for the NASA Gateway contract.
+Senior Security Engineer with nearly a decade of experience designing, standardizing, and hardening enterprise architecture at scale. My background balances hands-on infrastructure engineering with deep adversarial validation, bridging complex on-premises environments, high-consequence aerospace systems, and hybrid cloud security frameworks.
 
-Adversarial Research & Offensive Training
-While my professional roles have been centered on architecture and defense, I have dedicated the last year to mastering the offensive domain. I have logged 900+ hours of intensive hands-on lab time and am currently 97% of the way through the HTB Certified Penetration Testing Specialist (CPTS) path. To date, I have rooted 55 targets on Hack The Box, building a deep technical foundation in Active Directory exploitation, multi-stage pivoting, and Windows/Linux internals.
-
-NASA Gateway & Compliance Architecture
-On the NASA Gateway contract, I specialize in the intersection of architectural planning and federal compliance. My focus includes:
-• System Security Plans (SSP): Mapping out technical implementation to NIST 800-53 rev5 and 7150.2C requirements.
-• Security Architecture: Designing specifications for cybersecurity toolkits and integrating Splunk and Nessus environments for critical infrastructure.
-• Code Review: Performing manual source code reviews as part of passive penetration testing engagements for ground flight software.
-
-Technical Stack
-• Offensive: Nmap, Burp Suite, Metasploit, Impacket, Mimikatz
-• Defensive: Splunk (Core Certified), Qualys, Nessus, Wireshark, Microsoft Defender
-• Infrastructure: Cisco Enterprise Networking (VLAN/Routing), Azure AD/Entra ID
-
-I thrive in environments that require both the technical edge to identify vulnerabilities and the professional discipline to document and remediate them within complex compliance frameworks.
+## 🛠️ Technical Domain Strengths
+* **Hybrid Cloud Security Architecture:** Engineering enterprise identity governance within Microsoft Entra ID (Azure AD), configuring secure directory synchronization models, and designing Zero Trust access parameters.
+* **Adversarial Technical Validation:** 900+ hours of advanced hands-on lab execution. 97% complete with the Hack The Box Certified Penetration Testing Specialist (CPTS) path, specializing in Active Directory exploitation chains and platform hardening controls.
+* **High-Consequence Infrastructure Hardening:** Designing, auditing, and mapping security controls strictly to NIST 800-53, ISO 27001, and NIST 800-82 frameworks for complex commercial platforms and the NASA Gateway aerospace contract.
 
 ## 🎯 1,000 Hours of Cyber
 I am documenting a structured 1,000-hour journey to technical mastery in Cyber Security. Each phase represents a deep dive into specific adversarial techniques and methodologies.
