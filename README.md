@@ -14,15 +14,9 @@ I am documenting a structured 1,000-hour journey to technical mastery in Cyber S
 
 | Milestone | Link |
 | :--- | :--- |
-| **Phase 1 (0-100 Hours)** | [Foundations & Defensive Fundamentals](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#100-hours-of-cyber) |
-| **Phase 2 (100-200 Hours)** | [Transition to Offensive & SOC Ops](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#200-hours-of-cyber) |
-| **Phase 3 (200-300 Hours)** | [Building the Offensive Mindset](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#300-hours-of-cyber) |
-| **Phase 4 (300-400 Hours)** | [Structured Progress & HTB](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
-| **Phase 5 (400-500 Hours)** | [Repeatable Processes](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#500-hours-of-cyber) |
-| **Phase 6 (500-600 Hours)** | [Pivoting & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#600-hours-of-cyber) |
-| **Phase 7 (600-700 Hours)** | [Technical Depth & Methodology](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
-| **Phase 8 (700-800 Hours)** | [Accountability & Final Stretch](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#800-hours-of-cyber) |
-| **Phase 9 (800-900 Hours)** | [The "Second Brain" Methodology](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#900-hours-of-cyber) |
+| **Phases 1 - 3** | [Foundations, Defensive Fundamentals, & SOC Operations](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#100-hours-of-cyber) |
+| **Phases 4 - 6** | [Offensive Testing Methodologies, Pivoting, & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
+| **Phases 7 - 9** | [Advanced Technical Depth, Security Architecture, & "Second Brain" Lab Documentation](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
 
 *Current Progress: 90% Complete* ![Progress](https://geps.dev/progress/90)
 
