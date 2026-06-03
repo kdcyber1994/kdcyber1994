@@ -24,7 +24,7 @@ I am documenting a structured 1,000-hour journey to technical mastery in Cyber S
 
 ## ☁️ Enterprise Cloud Security & Architecture (Active Track)
 
-I am currently engineering and documenting hybrid identity frameworks, security boundaries, and access control models aligned with the **AZ-500 (Azure Security Engineer)** and **SC-500** tracks. 
+I am currently engineering and documenting hybrid identity frameworks, security boundaries, and access control models aligned with the **AZ-500 (Azure Security Engineer)** and **SC-500 (Cloud and AI Security Engineer Associate)** tracks. 
 
 * **[Cloud Security Architecture Portfolio](https://github.com/kdcyber1994/Cloud-Security-Portfolio/blob/main/README.md):** A live engineering runbook documenting directory synchronization models, enterprise authentication matrices, and tenant hardening strategies.
 * **Key Focus Areas:** Microsoft Entra ID Governance, Hybrid Identity Sync (Connect vs. Cloud Sync), Access Control Frameworks (NIST 800-53, Zero Trust).
