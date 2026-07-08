@@ -18,7 +18,7 @@ I am documenting a structured 1,000-hour journey to technical mastery in Cyber S
 | **Phases 4 - 6** | [Offensive Testing Methodologies, Pivoting, & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
 | **Phases 7 - 9** | [Advanced Technical Depth, Security Architecture, & "Second Brain" Lab Documentation](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
 
-*Current Progress: 90% Complete* ![Progress](https://geps.dev/progress/90)
+*Current Progress: 95% Complete* ![Progress](https://geps.dev/progress/95)
 
 *Current CPTS Progress: 97% Complete* ![Progress](https://geps.dev/progress/97)
 
