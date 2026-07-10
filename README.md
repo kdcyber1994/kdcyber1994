@@ -1,44 +1,44 @@
 # <a href="https://www.linkedin.com/in/kevin-dunn-/">Kevin Dunn</a>'s Cybersecurity Project Portfolio 🔐
 
-Senior Security Engineer with nearly a decade of experience designing, standardizing, and hardening enterprise architecture at scale. My background balances hands-on infrastructure engineering with deep adversarial validation, bridging complex on-premises environments, high-consequence aerospace systems, and hybrid cloud security frameworks.
+Cybersecurity Engineer with 9 years of enterprise IT, Infrastructure, and Operational Technology (OT) experience. My background balances hands-on terminal infrastructure engineering with deep adversarial validation, bridging complex on-premises networks, high-consequence aerospace systems, and hybrid cloud security frameworks.
 
 ## 🛠️ Technical Domain Strengths
-* **Hybrid Cloud Security Architecture:** Engineering enterprise identity governance within Microsoft Entra ID (Azure AD), configuring secure directory synchronization models, and designing Zero Trust access parameters.
-* **Adversarial Technical Validation:** 900+ hours of advanced hands-on lab execution. 97% complete with the Hack The Box Certified Penetration Testing Specialist (CPTS) path, specializing in Active Directory exploitation chains and platform hardening controls.
-* **High-Consequence Infrastructure Hardening:** Designing, auditing, and mapping security controls strictly to NIST 800-53, ISO 27001, and NIST 800-82 frameworks for complex commercial platforms and the NASA Gateway aerospace contract.
+* **Hybrid Cloud Security Architecture:** Engineering enterprise identity boundaries within Microsoft Entra ID, constructing Zero Trust access parameters, enforcing hardware-bound FIDO2 passkeys, and deploying Entra PIM to eliminate 100% of standing administrative privileges.
+* **Adversarial Technical Validation:** Executing 950+ hours of advanced, manual labs. Progressively compromising 94 standalone Windows, Linux, and Active Directory environments (97.6% CPTS path completion) to analyze exploit chains and validate internal defensive controls.
+* **High-Consequence Infrastructure Hardening:** Auditing, hardening, and mapping security controls strictly to NIST SP 800-53, ISO 27001, and NIST 800-82 (ICS/SCADA) frameworks across commercial platforms and the NASA Gateway aerospace contract. Co-authored the NASA Gateway Vehicle System Security Plan (SSP).
 
 ## 🎯 1,000 Hours of Cyber
-I am documenting a structured 1,000-hour journey to technical mastery in Cyber Security. Each phase represents a deep dive into specific adversarial techniques and methodologies.
+I am documenting an intensive, structured 1,000-hour journey to technical mastery in defensive architecture and offensive validation. Each phase represents terminal-driven documentation, engineering runbooks, and deep architectural deep dives based on 950+ hours of manual lab execution.
 
 **[Explore the Full Project Repository](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md)**
 
 | Milestone | Link |
 | :--- | :--- |
-| **Phases 1 - 3** | [Foundations, Defensive Fundamentals, & SOC Operations](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#100-hours-of-cyber) |
-| **Phases 4 - 6** | [Offensive Testing Methodologies, Pivoting, & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
-| **Phases 7 - 9** | [Advanced Technical Depth, Security Architecture, & "Second Brain" Lab Documentation](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
+| **Phases 1 - 3** | [Foundations, Enterprise Infrastructure Hardening, & SOC Operations](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#100-hours-of-cyber) |
+| **Phases 4 - 6** | [Offensive Testing Methodologies, Network Pivoting, & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
+| **Phases 7 - 9** | [Active Directory Exploitation, Cloud Security Architecture, & Methodology Field Manual](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
 
 *Current Progress: 95% Complete* ![Progress](https://geps.dev/progress/95)
 
-*Current CPTS Progress: 97% Complete* ![Progress](https://geps.dev/progress/97)
+*Current CPTS Progress: 97.6% Complete* ![Progress](https://geps.dev/progress/97)
 
 ## ☁️ Enterprise Cloud Security & Architecture (Active Track)
 
 I am currently engineering and documenting hybrid identity frameworks, security boundaries, and access control models aligned with the **AZ-500 (Azure Security Engineer)** and **SC-500 (Cloud and AI Security Engineer Associate)** tracks. 
 
-* **[Cloud Security Architecture Portfolio](https://github.com/kdcyber1994/Cloud-Security-Portfolio/blob/main/README.md):** A live engineering runbook documenting directory synchronization models, enterprise authentication matrices, and tenant hardening strategies.
-* **Key Focus Areas:** Microsoft Entra ID Governance, Hybrid Identity Sync (Connect vs. Cloud Sync), Access Control Frameworks (NIST 800-53, Zero Trust).
+* **[Cloud Security Architecture Portfolio](https://github.com/kdcyber1994/Cloud-Security-Portfolio/blob/main/README.md):** A live engineering runbook documenting directory synchronization models, enterprise authentication matrices, tenant hardening strategies, and organization-wide Azure Deny Policies enforcing Key Vault purge protection.
+* **Key Focus Areas:** Microsoft Entra ID Governance, Hybrid Identity Sync, Access Control Frameworks (NIST 800-53, Zero Trust), and Entra PIM dual-custody administrative approval pipelines.
 
 ## ⚠️ Vulnerability Management Projects
 
-* **[Vulnerability Management Program Implementation](https://github.com/kdcyber1994/vulnerability-management-program):** Full program lifecycle design, asset discovery configuration, and risk scoring frameworks.
-* **[Programmatic Vulnerability Remediations](https://github.com/kdcyber1994/programmatic-vulnerability-remediations/tree/main):** Automation scripts written in PowerShell and BASH to systematically patch and enforce system baselines at scale.
+* **[Vulnerability Management Program Implementation](https://github.com/kdcyber1994/vulnerability-management-program):** Full program lifecycle design, secure Tenable Nessus authenticated scanning pipeline architecture within Azure, and automated JIT Active Directory account provisioning across 200 virtual assets.
+* **[Programmatic Vulnerability Remediations](https://github.com/kdcyber1994/programmatic-vulnerability-remediations/tree/main):** Automation scripts written in PowerShell and BASH to systematically patch systems, route patches via a tiered matrix with built-in programmatic rollbacks, and reduce cloud infrastructure vulnerabilities by 81%.
 
 ---
 
 ## 🚨 Threat Hunting and Security Operations
 
-* **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kdcyber1994/threat-hunting-scenario-tor):** Detection and log analysis pipeline designed to identify unauthorized anonymized traffic within corporate network perimeters.
+* **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kdcyber1994/threat-hunting-scenario-tor):** Detection and log analysis pipeline utilizing custom Kusto Query Language (KQL) queries within EDR and SIEM platforms to systematically analyze process, file, and network telemetry tables, isolate unauthorized traffic, and drive host containment.
 
 ---
 
