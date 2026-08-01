@@ -4,11 +4,11 @@ Cybersecurity Engineer with 9 years of enterprise IT, Infrastructure, and Operat
 
 ## 🛠️ Technical Domain Strengths
 * **Hybrid Cloud Security Architecture:** Engineering enterprise identity boundaries within Microsoft Entra ID, constructing Zero Trust access parameters, enforcing hardware-bound FIDO2 passkeys, and deploying Entra PIM to eliminate 100% of standing administrative privileges.
-* **Adversarial Technical Validation:** Executing 950+ hours of advanced, manual labs. Progressively compromising 94 standalone Windows, Linux, and Active Directory environments (97.6% CPTS path completion) to analyze exploit chains and validate internal defensive controls.
+* **Adversarial Technical Validation:** Executing 1000+ hours of advanced, manual labs. Progressively compromising 95 standalone Windows, Linux, and Active Directory environments (100% CPTS path completion) to analyze exploit chains and validate internal defensive controls.
 * **High-Consequence Infrastructure Hardening:** Auditing, hardening, and mapping security controls strictly to NIST SP 800-53, ISO 27001, and NIST 800-82 (ICS/SCADA) frameworks across commercial platforms and the NASA Gateway aerospace contract. Co-authored the NASA Gateway Vehicle System Security Plan (SSP).
 
 ## 🎯 1,000 Hours of Cyber
-I am documenting an intensive, structured 1,000-hour journey to technical mastery in defensive architecture and offensive validation. Each phase represents terminal-driven documentation, engineering runbooks, and deep architectural deep dives based on 950+ hours of manual lab execution.
+I am documenting an intensive, structured 1,000-hour journey to technical mastery in defensive architecture and offensive validation. Each phase represents terminal-driven documentation, engineering runbooks, and deep architectural deep dives based on 1000+ hours of manual lab execution.
 
 **[Explore the Full Project Repository](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md)**
 
@@ -18,9 +18,9 @@ I am documenting an intensive, structured 1,000-hour journey to technical master
 | **Phases 4 - 6** | [Offensive Testing Methodologies, Network Pivoting, & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
 | **Phases 7 - 9** | [Active Directory Exploitation, Cloud Security Architecture, & Methodology Field Manual](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
 
-*Current Progress: 95% Complete* ![Progress](https://geps.dev/progress/95)
+*Current Progress: 100% Complete* ![Progress](https://geps.dev/progress/100)
 
-*Current CPTS Progress: 97.6% Complete* ![Progress](https://geps.dev/progress/97)
+*Current CPTS Progress: 100% Complete* ![Progress](https://geps.dev/progress/100)
 
 ## ☁️ Enterprise Cloud Security & Architecture (Active Track)
 
