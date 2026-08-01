@@ -17,6 +17,7 @@ I am documenting an intensive, structured 1,000-hour journey to technical master
 | **Phases 1 - 3** | [Foundations, Enterprise Infrastructure Hardening, & SOC Operations](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#100-hours-of-cyber) |
 | **Phases 4 - 6** | [Offensive Testing Methodologies, Network Pivoting, & Tunneling Mastery](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#400-actually-451-hours-of-cyber) |
 | **Phases 7 - 9** | [Active Directory Exploitation, Cloud Security Architecture, & Methodology Field Manual](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#700-hours-of-cyber) |
+| **Phase 10** | [Milestone Reached, Enterprise Capstone, & 1,000+ Hour Completion](https://github.com/kdcyber1994/1000-Hours-Of-Cyber/blob/main/README.md#1000-hour-mark) |
 
 *Current Progress: 100% Complete* ![Progress](https://geps.dev/progress/100)
 
