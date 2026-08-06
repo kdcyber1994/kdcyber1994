@@ -4,7 +4,7 @@ Cybersecurity Engineer with 9 years of enterprise IT, Infrastructure, and Operat
 
 ## 🛠️ Technical Domain Strengths
 * **Hybrid Cloud Security Architecture:** Engineering enterprise identity boundaries within Microsoft Entra ID, constructing Zero Trust access parameters, enforcing hardware-bound FIDO2 passkeys, and deploying Entra PIM to eliminate 100% of standing administrative privileges.
-* **Adversarial Technical Validation:** Executing 1000+ hours of advanced, manual labs. Progressively compromising 95 standalone Windows, Linux, and Active Directory environments (100% CPTS path completion) to analyze exploit chains and validate internal defensive controls.
+* **Adversarial Technical Validation:** Executing 1000+ hours of advanced, manual labs. Progressively compromising 97 standalone Windows, Linux, and Active Directory environments (100% CPTS path completion) to analyze exploit chains and validate internal defensive controls.
 * **High-Consequence Infrastructure Hardening:** Auditing, hardening, and mapping security controls strictly to NIST SP 800-53, ISO 27001, and NIST 800-82 (ICS/SCADA) frameworks across commercial platforms and the NASA Gateway aerospace contract. Co-authored the NASA Gateway Vehicle System Security Plan (SSP).
 
 ## 🎯 1,000 Hours of Cyber
